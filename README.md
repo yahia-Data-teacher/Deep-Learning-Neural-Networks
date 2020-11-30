@@ -1,4 +1,4 @@
-# neural-networks
+# Neural Networks
 
 ### What is a dense neural network ?  
 Layers are fully connected (dense) by the neurons in a network layer.  
